@@ -1,4 +1,4 @@
-#cp-tracker
+# cp-tracker
 ## What is cp-tracker?
 cp-tracker is an application for competitive programmers who are looking for 
 a tool that help them improve their skills.
